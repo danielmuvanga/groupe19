@@ -18,7 +18,7 @@ namespace TP2
             Console.WriteLine("CLASSES ABSTRAITES");
             Console.WriteLine("-----------------------------------\n");
 
-            Teacher enseignant1 = new Teacher("Mitamba", "", "Benedicte");
+            Teacher enseignant1 = new Teacher("Mitamba", "Dom", "Benedicte");
             Student etudiant1 = new Student("Bibundo", "Banyere", "22liagelj");
 
             enseignant1.Ajouter(2);
