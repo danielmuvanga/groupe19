@@ -1,0 +1,80 @@
+C:\Users\james-mat\Documents\Project C#\TP2\TP2\obj\Debug\TP2.csproj.CoreCompileInputs.cache
+C:\Users\james-mat\Documents\Project C#\TP2\TP2\bin\Debug\TP2.exe.config
+C:\Users\james-mat\Documents\Project C#\TP2\TP2\bin\Debug\TP2.exe
+C:\Users\james-mat\Documents\Project C#\TP2\TP2\bin\Debug\TP2.pdb
+C:\Users\james-mat\Documents\Project C#\TP2\TP2\obj\Debug\TP2.exe
+C:\Users\james-mat\Documents\Project C#\TP2\TP2\obj\Debug\TP2.pdb
+C:\Users\james-mat\Documents\Project C#\TP2\TP2\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\james-mat\Documents\Project C#\TP2\TP2\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\james-mat\Documents\Project C#\TP2\TP2\obj\Debug\TP2.csproj.CopyComplete
+C:\Users\james-mat\Documents\Project C#\TP2\TP2\bin\Debug\Google.Protobuf.dll
+C:\Users\james-mat\Documents\Project C#\TP2\TP2\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\james-mat\Documents\Project C#\TP2\TP2\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\james-mat\Documents\Project C#\TP2\TP2\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\james-mat\Documents\Project C#\TP2\TP2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\james-mat\Documents\Project C#\TP2\TP2\bin\Debug\MySql.Data.dll
+C:\Users\james-mat\Documents\Project C#\TP2\TP2\bin\Debug\System.Buffers.dll
+C:\Users\james-mat\Documents\Project C#\TP2\TP2\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\james-mat\Documents\Project C#\TP2\TP2\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\james-mat\Documents\Project C#\TP2\TP2\bin\Debug\System.IO.Pipelines.dll
+C:\Users\james-mat\Documents\Project C#\TP2\TP2\bin\Debug\System.Memory.dll
+C:\Users\james-mat\Documents\Project C#\TP2\TP2\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\james-mat\Documents\Project C#\TP2\TP2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\james-mat\Documents\Project C#\TP2\TP2\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\james-mat\Documents\Project C#\TP2\TP2\bin\Debug\ZstdSharp.dll
+C:\Users\james-mat\Documents\Project C#\TP2\TP2\bin\Debug\Google.Protobuf.pdb
+C:\Users\james-mat\Documents\Project C#\TP2\TP2\bin\Debug\Google.Protobuf.xml
+C:\Users\james-mat\Documents\Project C#\TP2\TP2\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\james-mat\Documents\Project C#\TP2\TP2\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\james-mat\Documents\Project C#\TP2\TP2\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\james-mat\Documents\Project C#\TP2\TP2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\james-mat\Documents\Project C#\TP2\TP2\bin\Debug\MySql.Data.xml
+C:\Users\james-mat\Documents\Project C#\TP2\TP2\bin\Debug\System.Buffers.xml
+C:\Users\james-mat\Documents\Project C#\TP2\TP2\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\james-mat\Documents\Project C#\TP2\TP2\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\james-mat\Documents\Project C#\TP2\TP2\bin\Debug\System.IO.Pipelines.xml
+C:\Users\james-mat\Documents\Project C#\TP2\TP2\bin\Debug\System.Memory.xml
+C:\Users\james-mat\Documents\Project C#\TP2\TP2\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\james-mat\Documents\Project C#\TP2\TP2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\james-mat\Documents\Project C#\TP2\TP2\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\james-mat\Documents\Project C#\TP2\TP2\obj\Debug\TP2.csproj.AssemblyReference.cache
+D:\GROUPE_1\groupe_1\TP2\TP2\bin\Debug\TP2.exe.config
+D:\GROUPE_1\groupe_1\TP2\TP2\bin\Debug\TP2.exe
+D:\GROUPE_1\groupe_1\TP2\TP2\bin\Debug\TP2.pdb
+D:\GROUPE_1\groupe_1\TP2\TP2\bin\Debug\BouncyCastle.Cryptography.dll
+D:\GROUPE_1\groupe_1\TP2\TP2\bin\Debug\Google.Protobuf.dll
+D:\GROUPE_1\groupe_1\TP2\TP2\bin\Debug\K4os.Compression.LZ4.dll
+D:\GROUPE_1\groupe_1\TP2\TP2\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\GROUPE_1\groupe_1\TP2\TP2\bin\Debug\K4os.Hash.xxHash.dll
+D:\GROUPE_1\groupe_1\TP2\TP2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\GROUPE_1\groupe_1\TP2\TP2\bin\Debug\MySql.Data.dll
+D:\GROUPE_1\groupe_1\TP2\TP2\bin\Debug\System.Buffers.dll
+D:\GROUPE_1\groupe_1\TP2\TP2\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\GROUPE_1\groupe_1\TP2\TP2\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\GROUPE_1\groupe_1\TP2\TP2\bin\Debug\System.IO.Pipelines.dll
+D:\GROUPE_1\groupe_1\TP2\TP2\bin\Debug\System.Memory.dll
+D:\GROUPE_1\groupe_1\TP2\TP2\bin\Debug\System.Numerics.Vectors.dll
+D:\GROUPE_1\groupe_1\TP2\TP2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\GROUPE_1\groupe_1\TP2\TP2\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\GROUPE_1\groupe_1\TP2\TP2\bin\Debug\ZstdSharp.dll
+D:\GROUPE_1\groupe_1\TP2\TP2\bin\Debug\BouncyCastle.Cryptography.xml
+D:\GROUPE_1\groupe_1\TP2\TP2\bin\Debug\Google.Protobuf.pdb
+D:\GROUPE_1\groupe_1\TP2\TP2\bin\Debug\Google.Protobuf.xml
+D:\GROUPE_1\groupe_1\TP2\TP2\bin\Debug\K4os.Compression.LZ4.xml
+D:\GROUPE_1\groupe_1\TP2\TP2\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\GROUPE_1\groupe_1\TP2\TP2\bin\Debug\K4os.Hash.xxHash.xml
+D:\GROUPE_1\groupe_1\TP2\TP2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\GROUPE_1\groupe_1\TP2\TP2\bin\Debug\MySql.Data.xml
+D:\GROUPE_1\groupe_1\TP2\TP2\bin\Debug\System.Buffers.xml
+D:\GROUPE_1\groupe_1\TP2\TP2\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\GROUPE_1\groupe_1\TP2\TP2\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\GROUPE_1\groupe_1\TP2\TP2\bin\Debug\System.IO.Pipelines.xml
+D:\GROUPE_1\groupe_1\TP2\TP2\bin\Debug\System.Memory.xml
+D:\GROUPE_1\groupe_1\TP2\TP2\bin\Debug\System.Numerics.Vectors.xml
+D:\GROUPE_1\groupe_1\TP2\TP2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\GROUPE_1\groupe_1\TP2\TP2\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\GROUPE_1\groupe_1\TP2\TP2\obj\Debug\TP2.csproj.AssemblyReference.cache
+D:\GROUPE_1\groupe_1\TP2\TP2\obj\Debug\TP2.csproj.CoreCompileInputs.cache
+D:\GROUPE_1\groupe_1\TP2\TP2\obj\Debug\TP2.csproj.CopyComplete
+D:\GROUPE_1\groupe_1\TP2\TP2\obj\Debug\TP2.exe
+D:\GROUPE_1\groupe_1\TP2\TP2\obj\Debug\TP2.pdb
